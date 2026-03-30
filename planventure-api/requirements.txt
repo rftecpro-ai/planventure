@@ -12,4 +12,4 @@ werkzeug==2.3.7
 bcrypt==4.0.1
 
 # Database migrations
-flask-migrate==4.0.5
+flask-migrate==4.1.0
